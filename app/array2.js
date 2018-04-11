@@ -7,3 +7,14 @@ var names = [{
     age: 31
   }
 ];
+
+var names = [
+  {
+    name: "Biggie",
+    age: 55
+  },
+  {
+    name: "Teensy",
+    age: 3
+  }
+];
