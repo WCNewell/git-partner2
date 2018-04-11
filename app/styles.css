@@ -1,15 +1,15 @@
 header {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
-    grid-gap: 10px;
+    grid-gap: 20px;
     align-items: end;
-    border-bottom: .3rem solid darkgrey;
+    border-bottom: 5rem solid rgb(169, 169, 169);
 }
 
 h1 {
     grid-column: 1/span 2;
-    margin-left: 1rem;
-    color: orange;
+    margin-left: 2rem;
+    color: rgb(0, 255, 42);
 }
 
 nav {
